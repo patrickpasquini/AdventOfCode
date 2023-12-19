@@ -33,5 +33,3 @@ Thanks to Eric Wastl and the Advent of Code community for creating and maintaini
 Happy Coding! 🌟
 
 ---
-
-**Note:** This README template is a basic guide. Feel free to customize it according to your needs.
