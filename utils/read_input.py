@@ -1,9 +1,9 @@
 def read_input():
     print("Insert the challenge input")
-    document = []
+    documents = []
     while True:
         line = input()
         if line == "":
             break
-        document.append(line)
-    return document
+        documents.append(line)
+    return documents
