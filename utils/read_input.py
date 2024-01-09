@@ -4,7 +4,6 @@ def read_input():
     count = 0
     while True:
         line = input()
-
         if line == "":
             count += 1
         if count == 2:
